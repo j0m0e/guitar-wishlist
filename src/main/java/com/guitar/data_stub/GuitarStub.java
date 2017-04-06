@@ -1,4 +1,4 @@
-package com.guitar.model;
+package com.guitar.data_stub;
 
 public class GuitarStub {
 private String g = "guitar";
